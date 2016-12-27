@@ -16,4 +16,5 @@ Dans sa première itération au semestre d’hivers 2017 à l’Université de M
 
 - [Article de Wikipédia sur les Tiers-Lieux](https://fr.wikipedia.org/wiki/Tiers-lieu)
 
+- [Teaching Community Technology Handbook](https://www.alliedmedia.org/news/2016/11/16/introducing-“teaching-community-technology-handbook”)
   ​
