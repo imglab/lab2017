@@ -10,9 +10,10 @@ Dans sa première itération au semestre d’hivers 2017 à l’Université de M
 
 - [Manifeste des Tiers-Lieux](http://movilab.org/index.php?title=Le_manifeste_des_Tiers_Lieux)
 
+- [Hackerspace](https://wiki.hackerspaces.org/Hackerspaces)
+
 - [Article de Wikipédia consacré aux Hackerspaces](https://fr.wikipedia.org/wiki/Hackerspace)
 
 - [Article de Wikipédia sur les Tiers-Lieux](https://fr.wikipedia.org/wiki/Tiers-lieu)
 
   ​
-
