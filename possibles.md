@@ -12,3 +12,6 @@ N’hésitez pas à modifier ce fichier avec vos propositions.
 - cartographie numérique
 - modélisation 3D
 - dataViz
+- initier une campagne sur l’ouverture des données culturelles
+- initier la rédaction d’un manuel numérique d’histoire de l’art numérique
+- produire des zine (papiers ? numériques ?)
