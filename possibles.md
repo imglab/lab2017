@@ -15,3 +15,4 @@ N’hésitez pas à modifier ce fichier avec vos propositions.
 - initier une campagne sur l’ouverture des données culturelles
 - initier la rédaction d’un manuel numérique d’histoire de l’art numérique
 - produire des zine (papiers ? numériques ?)
+- participer au Hackathon http://critiquesdart.univ-paris1.fr/actualites.php#hackathon
